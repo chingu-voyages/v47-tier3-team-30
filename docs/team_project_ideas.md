@@ -10,9 +10,9 @@ sentences.
 Each team member should Place an 'X' under their name to vote for the ideas 
 you like the best.
 
-| Project Idea | Description | teammate name | teammate name | teammate name | teammate name | teammate name | teammate name |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| First idea | Description | | | | | | |
+| Project Idea | Description | Zie | Ahmed | Stefan | ALbert | 
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Sustainable Fashion Insights Hub | Developing a dynamic platform that leverages social media data (Consumer Behavior Analysis) to create a Global Fashion Heatmap, offering real-time insights into sustainable fashion engagement worldwide. The Sustainability Impact Dashboard integrates environmental data, empowering brands, consumers, and policymakers with actionable insights to drive positive change in the fashion industry. | x | | | | 
 | Second idea | Description | | | | | | |
 | ... | Description | | | | | | |
 | Last idea | Description | | | | | | |
