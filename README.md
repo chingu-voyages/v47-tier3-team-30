@@ -1,28 +1,19 @@
-# voyage-tasks
+## Electricity Emissions Calculator
 
-Your project's `readme` is as important to success as your code. For 
-this reason you should put as much care into its creation and maintenance
-as you would any other component of the application.
+An easily accessible tool for calculating electricity-related carbon emissions, along with insights for reducing environmental impact.
 
-If you are unsure of what should go into the `readme` let this article,
-written by an experienced Chingu, be your starting point - 
-[Keys to a well written README](https://tinyurl.com/yk3wubft).
+## Tools
 
-And before we go there's "one more thing"! Once you decide what to include
-in your `readme` feel free to replace the text we've provided here.
+For this project, the following tools were used:
 
-> Own it & Make it your Own!
+pandas - for data analysis
 
-## Team Documents
+requests - for sending HTTP requests to the API
 
-You may find these helpful as you work together to organize your project.
+intertools - for iterating over data structures
 
-- [Team Project Ideas](./docs/team_project_ideas.md)
-- [Team Decision Log](./docs/team_decision_log.md)
+## Objective
 
-Meeting Agenda templates (located in the `/docs` directory in this repo):
+To retrieve the data from an open source API and use those to create a simple interface for users to calculate their electricity-related carbon emissions, along with further actionable information on how to reduce their environmental impact.
 
-- Meeting - Voyage Kickoff --> ./docs/meeting-voyage_kickoff.docx
-- Meeting - App Vision & Feature Planning --> ./docs/meeting-vision_and_feature_planning.docx
-- Meeting - Sprint Retrospective, Review, and Planning --> ./docs/meeting-sprint_retrospective_review_and_planning.docx
-- Meeting - Sprint Open Topic Session --> ./docs/meeting-sprint_open_topic_session.docx
+![Electricity Emissions Wireframe](electricity_emissions_wireframe.png)
